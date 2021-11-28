@@ -1,1 +1,1 @@
-This project uses the statsmodels library to run OLS.
+This project uses the statsmodels library to run a vanilla OLS.
